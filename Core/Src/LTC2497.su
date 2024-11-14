@@ -1,2 +1,0 @@
-../Core/Src/LTC2497.c:6:8:LTC2497_Read	48	static
-../Core/Src/LTC2497.c:76:7:LTC2497_CodeToVoltage	24	static
